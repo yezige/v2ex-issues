@@ -1,3 +1,5 @@
-# V2ex Plus 小程序issues提交库
+## V2ex Plus 小程序issues提交库
 
-## 目前小程序源码尚未开源，issues请提交到这里，我会及时处理
+- 目前小程序尚未开源
+- issues请提交到这里
+- 我会及时处理
